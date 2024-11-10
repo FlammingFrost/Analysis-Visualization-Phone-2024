@@ -1,8 +1,21 @@
-# Analysis-Visualization-Phone-2024\
+# Analysis-Visualization-Phone-2024
+<div style="background-color: #e0e0e0; border-radius: 8px; padding: 10px; width: 100%; max-width: 600px;">
+  <div style="font-weight: bold; font-size: 18px; padding: 5px;">Project Progress:</div>
+  <div style="height: 20px; background-color: #4caf50; width: 12.5%; border-radius: 8px; text-align: right; padding-right: 5px; color: white; font-weight: bold;">
+    Week 1/8
+  </div>
+</div>
 
+## Task List for Week 1
+- [ ] A description of dataset.
+- [ ] A requirement document outlining the analysis focus, key questions, and expected outcomes. Specify the goals and objectives for each stage.
+- [ ] The first draft of the timeline and milestones.
 
+---
 
 ## Project Description
+This project aims to analyze and visualize phone data for 2024. It involves statistical analysis, data mining, and visualization to extract insights and trends. Tasks will be updated weekly to reflect progress and upcoming work.
+
 This project is a personal project aiming to analyze and visualize the phone usage data in 2024. The project will simulate the data analysis process in a real-world scenario and featuring:
 1. Statistical Analysis and Hypothesis Testing
    1. Conduct tests, interpret results, and draw conclusions.
