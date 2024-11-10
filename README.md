@@ -1,12 +1,7 @@
 # Analysis-Visualization-Phone-2024
-<div style="background-color: #e0e0e0; border-radius: 8px; padding: 10px; width: 100%; max-width: 600px;">
-  <div style="font-weight: bold; font-size: 18px; padding: 5px;">Project Progress:</div>
-  <div style="height: 20px; background-color: #4caf50; width: 12.5%; border-radius: 8px; text-align: right; padding-right: 5px; color: white; font-weight: bold;">
-    Week 1/8
-  </div>
-</div>
+![Status](https://img.shields.io/badge/Status-in%20progress-blue)![Project Progress](https://img.shields.io/badge/Progress-12.5%20-brightgreen)![Completion](https://img.shields.io/badge/Completion-Q4%202024-orange)
 
-## Task List for Week 1
+**Task List for Week 1**
 - [ ] A description of dataset.
 - [ ] A requirement document outlining the analysis focus, key questions, and expected outcomes. Specify the goals and objectives for each stage.
 - [ ] The first draft of the timeline and milestones.
