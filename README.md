@@ -1,10 +1,14 @@
 # Analysis-Visualization-Phone-2024
-![Status](https://img.shields.io/badge/Status-in%20progress-blue)![Project Progress](https://img.shields.io/badge/Progress-12.5%20-brightgreen)![Completion](https://img.shields.io/badge/Completion-Q4%202024-orange)
+![Status](https://img.shields.io/badge/Status-in%20progress-blue)![Project Progress](https://img.shields.io/badge/Progress-2/8%20-brightgreen)![Completion](https://img.shields.io/badge/Completion-Q4%202024-orange)
 
-**Task List for Week 1**
-- [ ] A description of dataset.
-- [ ] A requirement document outlining the analysis focus, key questions, and expected outcomes. Specify the goals and objectives for each stage.
-- [ ] The first draft of the timeline and milestones.
+**Task List for Week 2** (11/17/2024 - 11/23/2024)
+**EDA and Transformation**:
+- [ ] Exploratory Data Analysis (EDA)
+- [ ] Data transformation
+- [ ] Complete a data transformation document for trackability.
+
+**Statistical Analysis Plan**:
+- [ ] Propose a plan for statistical analysis. According to key questions.
 
 ---
 
@@ -23,18 +27,18 @@ This project is a personal project aiming to analyze and visualize the phone usa
 
 ## Outline and Timeline
 
-Preliiminary Timeline are now available in [Timeline-and-Milestones](./Project-Timeline/Timeline-and-Milestones-Preliminary.md).
+Timeline are now available in [Timeline-and-Milestones](./Project-Timeline/Timeline-and-Milestones_2024-11-17.md).
 
 ## Data Source
 
 The data is from Kaggle: [Phone Information 2024](https://www.kaggle.com/datasets/willianoliveiragibin/phone-information-2024). This dataset contains the phone model from 2017 to 2024, including the phone model, the release date, the price, specifications, and other information.
 
-The dataset structure and Explorataroy Data Analysis (EDA) are wriiten in [Data-Exploration-and-Data-Preprocessing](./Data-Exploration-and-Data-Preprocessing/Data-Exploration-and-Data-Preprocessing.md) when available.
+The [data overview](./data_overview/data-overview.md) provides a description of the dataset and its structure. It also tracks the data processing and cleaning steps.
 
 ## Analysis Process
 
 This project tries to follow the standard data analysis process, featuring the following steps:
-1. [Data Exploration and Data Preprocessing]() (Availabel at **Week 1**)
+1. [Data Exploration and Data Preprocessing](./documentation/Data-Processing-and-Exporation.md) (Available at **Week 1**)
 2. [Statistical Analysis and Hypothesis Testing]() (Available at **Week 3**)
 3. [Data Mining and Machine Learning]() (Available at **Week 4**)
 4. [Data Visualization]() (Available at **Week 5**)
