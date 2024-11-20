@@ -3,8 +3,8 @@
 
 **Task List for Week 2** (11/17/2024 - 11/23/2024)
 **EDA and Transformation**:
-- [ ] Exploratory Data Analysis (EDA)
-- [ ] Data transformation
+- [x] Exploratory Data Analysis (EDA)
+- [x] Data transformation (Remark: Not too much general transformation needed)
 - [ ] Complete a data transformation document for trackability.
 
 **Statistical Analysis Plan**:
