@@ -5,7 +5,7 @@
 **EDA and Transformation**:
 - [x] Exploratory Data Analysis (EDA)
 - [x] Data transformation (Remark: Not too much general transformation needed)
-- [ ] Complete a data transformation document for trackability.
+- [x] Complete a data transformation document for trackability.
 
 **Statistical Analysis Plan**:
 - [ ] Propose a plan for statistical analysis. According to key questions.
